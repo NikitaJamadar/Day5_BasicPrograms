@@ -1,0 +1,14 @@
+C:\Blabz\RFP\BasicCorePrograms\BasicCorePrograms\bin\Debug\netcoreapp3.1\BasicCorePrograms.exe
+C:\Blabz\RFP\BasicCorePrograms\BasicCorePrograms\bin\Debug\netcoreapp3.1\BasicCorePrograms.deps.json
+C:\Blabz\RFP\BasicCorePrograms\BasicCorePrograms\bin\Debug\netcoreapp3.1\BasicCorePrograms.runtimeconfig.json
+C:\Blabz\RFP\BasicCorePrograms\BasicCorePrograms\bin\Debug\netcoreapp3.1\BasicCorePrograms.runtimeconfig.dev.json
+C:\Blabz\RFP\BasicCorePrograms\BasicCorePrograms\bin\Debug\netcoreapp3.1\BasicCorePrograms.dll
+C:\Blabz\RFP\BasicCorePrograms\BasicCorePrograms\bin\Debug\netcoreapp3.1\BasicCorePrograms.pdb
+C:\Blabz\RFP\BasicCorePrograms\BasicCorePrograms\obj\Debug\netcoreapp3.1\BasicCorePrograms.csproj.AssemblyReference.cache
+C:\Blabz\RFP\BasicCorePrograms\BasicCorePrograms\obj\Debug\netcoreapp3.1\BasicCorePrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Blabz\RFP\BasicCorePrograms\BasicCorePrograms\obj\Debug\netcoreapp3.1\BasicCorePrograms.AssemblyInfoInputs.cache
+C:\Blabz\RFP\BasicCorePrograms\BasicCorePrograms\obj\Debug\netcoreapp3.1\BasicCorePrograms.AssemblyInfo.cs
+C:\Blabz\RFP\BasicCorePrograms\BasicCorePrograms\obj\Debug\netcoreapp3.1\BasicCorePrograms.csproj.CoreCompileInputs.cache
+C:\Blabz\RFP\BasicCorePrograms\BasicCorePrograms\obj\Debug\netcoreapp3.1\BasicCorePrograms.dll
+C:\Blabz\RFP\BasicCorePrograms\BasicCorePrograms\obj\Debug\netcoreapp3.1\BasicCorePrograms.pdb
+C:\Blabz\RFP\BasicCorePrograms\BasicCorePrograms\obj\Debug\netcoreapp3.1\BasicCorePrograms.genruntimeconfig.cache
